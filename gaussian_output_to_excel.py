@@ -1,7 +1,6 @@
 import re
 import xlsxwriter
 import os
-#import fnmatch
 import os.path
 
 #getting the directory information to get ready to build the excel file
