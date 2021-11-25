@@ -4,7 +4,7 @@ https://github.com/DrMamut/gaussian_output_to_excel
 Welcome to Gaussian Output to Excel program.
                                           written by DrMamut
 
- This python script is capable of finding, reading, and extracting important information from all the Gaussian output files (.out) found on the directory and all subdirectories where it is stored.
+ This python3 script is capable of finding, reading, and extracting important information from all the Gaussian output files (.out) found on the directory and all subdirectories where it is stored.
 
  It will grab the typical information needed from those files, like energies or the presence of imaginary frequencies from optimized jobs that were sent to Gaussian. Is capable of reading DFT, TD-DFT, transition states, solvent, and other types of data that could be found on those jobs.
 
