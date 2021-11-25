@@ -1,4 +1,5 @@
 # gaussian_output_to_excel
+https://github.com/DrMamut/gaussian_output_to_excel
 
 Welcome to Gaussian Output to Excel program.
                                           written by DrMamut
